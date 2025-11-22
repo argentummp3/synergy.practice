@@ -1,3 +1,5 @@
+"""  Кейс-задача № 3  """
+
 def find_sum_between_min_max(arr):
     if len(arr) < 2:
         return 0  # Если меньше 2 элементов, между ними ничего нет
